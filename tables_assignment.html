@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+   <style>
+        #tableSection {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f3f4f6;
+            margin: 0;
+        }
+
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 8px 8px 0 0;
+            overflow: hidden;
+            border-bottom: 4px solid #16a085;
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+        }
+
+        table
+        {
+            border: none 2px;
+            border-collapse: collapse;
+            font-family: roboto, sans-serif;
+            padding: 4px;
+        }
+
+        #tableHead
+        {
+            background-color: #16a085;
+            color: white;
+        }
+
+        th
+        {
+            width: 20%;
+        }
+
+        #tableRow1{
+            padding: 4px;
+            margin-left: 2px;
+            background-color: #ffffff;
+        }
+
+        #tableRow2{
+            background-color: #f0f0f0;
+            color: #16a085;
+            font-weight: bold;
+        }
+
+        #tableRow3{
+            padding: 4px;
+            margin-left: 2px;
+            background-color: #ffffff;
+            border-bottom: 4px solid #16a085;
+        }
+
+        #navBar {
+            font-family: Arial, sans-serif;
+            display: flex;
+            height: 10%;
+            background-color: rgba(137,228,210,0.81);
+            margin: 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #ff2d27;
+            font-size: 20px;
+            padding: 10px;
+        }
+
+        a:hover{
+            color: #f995ff;
+            font-size: 25px;
+        }
+
+   </style>
+
+</head>
+<body>
+
+    <section id="navBar">
+    <!--Navigation bar section-->
+        <a href="home.html">Home</a>
+        <a href="images.html">Images</a>
+        <a href="tables.html">Tables</a>
+        <a href="lists.html">Lists</a>
+        <a href="tables_assignment.html">Tables Assignment</a>
+
+    </section>
+
+    <br>
+    <section id="tableSection">
+        <!--Section containing the table-->
+        <table>
+            <tr id="tableHead">
+                <th>Rank</th>
+                <th>Name</th>
+                <th>Points</th>
+                <th>Team</th>
+            </tr>
+
+            <tr id="tableRow1">
+                <td>1</td>
+                <td>Domenic</td>
+                <td>88,110</td>
+                <td>dcode</td>
+            </tr>
+
+            <tr id="tableRow2">
+                <td>2</td>
+                <td>Sally</td>
+                <td>72,400</td>
+                <td>Students</td>
+            </tr>
+
+            <tr id="tableRow3">
+                <td>3</td>
+                <td>Nick</td>
+                <td>52,300</td>
+                <td>dcode</td>
+            </tr>
+
+        </table>
+    </section>
+
+</body>
+</html>
