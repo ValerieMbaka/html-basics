@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bc1415d-6852-430a-b7aa-b25fba0f078d" name="Changes" comment="Second commit" />
+    <list default="true" id="2bc1415d-6852-430a-b7aa-b25fba0f078d" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +19,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -44,8 +56,9 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/Web Development/HTML-CSS Basics/images&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;branch2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/Django-CRUDify&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -97,6 +110,16 @@
       <workItem from="1729162056941" duration="2325000" />
       <workItem from="1729164785281" duration="371000" />
       <workItem from="1729165760444" duration="837000" />
+      <workItem from="1729251163283" duration="580000" />
+      <workItem from="1729252722917" duration="121000" />
+      <workItem from="1729254126367" duration="84000" />
+      <workItem from="1729576857097" duration="6000" />
+      <workItem from="1729683104777" duration="152000" />
+      <workItem from="1729683876122" duration="1087000" />
+      <workItem from="1729686723895" duration="22000" />
+      <workItem from="1729686775089" duration="700000" />
+      <workItem from="1729688959535" duration="315000" />
+      <workItem from="1729715592372" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <option name="closed" value="true" />
